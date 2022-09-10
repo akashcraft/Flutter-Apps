@@ -16,7 +16,7 @@ Simply open the Answers.txt file and add your 5 letter word.
 Please do not alter the Allowable.txt as it is used to check the validity of inputs.
 
 ## Who can use this?
-Anyone is allowed to download the files or modify the code.  
+Everyone is allowed to download the files or modify the code.  
 However, should you wish to publish this in your socials, please provide appropriate credits.  
 
 You can add this as your description if you like:  
