@@ -19,7 +19,7 @@ Please do not alter the Allowable.txt as it is used to check the validity of inp
 Anyone is allowed to download the files and modify the code.  
 However, should you wish to publish this in your socials, please provide appropriate credits.  
 
-You can add this as your description if you like:
+You can add this as your description if you like:  
 Source Code: https://github.com/akashcraft/Wordle-Python  
 AkashCraft: [youtube.com/c/AkashCraft2](https://youtube.com/c/AkashCraft2)  
 
