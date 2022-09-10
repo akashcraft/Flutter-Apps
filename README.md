@@ -1,4 +1,4 @@
-# About
+# About Wordle-Python
 Wordle game in Python IDLE. No GUI.
 
 ![image](https://user-images.githubusercontent.com/113077967/189461577-34e99650-fba1-4300-948b-e21c1deabc22.png)
