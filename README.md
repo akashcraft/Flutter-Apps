@@ -21,6 +21,6 @@ However, should you wish to publish this in your socials, please provide appropr
 
 You can add this as your description if you like:  
 Source Code: https://github.com/akashcraft/Wordle-Python  
-AkashCraft: [youtube.com/c/AkashCraft2](https://youtube.com/c/AkashCraft2)  
+AkashCraft: [akashcraft.ca](https://akashcraft.ca)  
 
 Thanks!
