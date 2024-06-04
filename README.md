@@ -4,13 +4,13 @@ Wordle Game in Python
 With GUI
 <br>
 <br>
-<img src="https://github.com/akashcraft/Wordle-Python/assets/113077967/f88c35ca-7fff-4d55-9ae6-c759288c0e9f">
+<img width=600px src="https://github.com/akashcraft/Wordle-Python/assets/113077967/f88c35ca-7fff-4d55-9ae6-c759288c0e9f">
 <br>
 <br>
 Without GUI
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/113077967/189461577-34e99650-fba1-4300-948b-e21c1deabc22.png">
+<img width=600px src="https://user-images.githubusercontent.com/113077967/189461577-34e99650-fba1-4300-948b-e21c1deabc22.png">
 
 
 ## Instructions
