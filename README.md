@@ -14,7 +14,7 @@ Without GUI
 
 
 ## Instructions
-GUI Version is for Windows Only. You play the non-GUI Version by cloning this repository with the following command. Go to the [Release](https://github.com/akashcraft/Wordle-Python/releases) Section to download the Setup File.
+GUI Version is for Windows Only. Go to the [Release](https://github.com/akashcraft/Wordle-Python/releases) Section to download the Setup File. You can play the non-GUI Version by cloning this repository with the following command. 
 
 ```
 git clone https://github.com/akashcraft/Wordle-Python.git
