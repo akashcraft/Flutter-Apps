@@ -21,7 +21,7 @@ git clone https://github.com/akashcraft/Wordle-Python.git
 ```
 
 Please keep all three files together in the same directory. `Answers.txt` contains over 2300 words. Simply open the `Answers.txt` file and add your 5 letter word.
-Please **do not** alter the `Allowable.txt` as it is used to check the validity of inputs.
+Please **do not** alter the `Allowable.txt` as it is used to check the validity of inputs. You will need to have Python installed in this case.
 
 ## Who can use this?
 Everyone is allowed to download the files or modify the code.  
