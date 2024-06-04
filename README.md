@@ -1,19 +1,27 @@
-# About Wordle-Python
-Wordle game in Python IDLE. No GUI.
+# Wordle-Python
+Wordle Game in Python
 
-![image](https://user-images.githubusercontent.com/113077967/189461577-34e99650-fba1-4300-948b-e21c1deabc22.png)
+With GUI
+<br>
+<br>
+<img src="https://github.com/akashcraft/Wordle-Python/assets/113077967/f88c35ca-7fff-4d55-9ae6-c759288c0e9f">
+<br>
+<br>
+Without GUI
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/113077967/189461577-34e99650-fba1-4300-948b-e21c1deabc22.png">
 
 
 ## Instructions
-To make sure the code works, download the file as zip.  
-Please keep all three files together in the same directory.  
-Answers.txt contains over 2300 words.
+GUI Version is for Windows Only. You play the non-GUI Version by cloning this repository with the following command. Go to the [Release](https://github.com/akashcraft/Wordle-Python/releases) Section to download the Setup File.
 
-### Updating words
-Simply open the Answers.txt file and add your 5 letter word.
+```
+git clone https://github.com/akashcraft/Wordle-Python.git
+```
 
-### NOT Recommended
-Please do not alter the Allowable.txt as it is used to check the validity of inputs.
+Please keep all three files together in the same directory. `Answers.txt` contains over 2300 words. Simply open the `Answers.txt` file and add your 5 letter word.
+Please **do not** alter the `Allowable.txt` as it is used to check the validity of inputs.
 
 ## Who can use this?
 Everyone is allowed to download the files or modify the code.  
