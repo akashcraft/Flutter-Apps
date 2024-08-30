@@ -27,7 +27,7 @@ Please **do not** alter the `Allowable.txt` as it is used to check the validity 
 You are free to download and edit the source code files however you like.
 Should you wish to publish this in your project or socials, please provide appropriate credits.
 
-You can add this as your references (or description) if you like:<br>
+You can add this as your references (or description) if you like:<br><br>
 Source Code: https://github.com/akashcraft/Wordle-Python  
 Website: [akashcraft.ca](https://akashcraft.ca)  
 
