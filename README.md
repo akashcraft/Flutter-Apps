@@ -24,11 +24,14 @@ Please keep all three files together in the same directory. `Answers.txt` contai
 Please **do not** alter the `Allowable.txt` as it is used to check the validity of inputs. You will need to have Python installed in this case.
 
 ## Who can use this?
-Everyone is allowed to download the files or modify the code.  
-However, should you wish to publish this in your socials, please provide appropriate credits.  
+You are free to download and edit the source code files however you like.
+Should you wish to publish this in your project or socials, please provide appropriate credits.
 
-You can add this as your description if you like:  
+You can add this as your references (or description) if you like:
 Source Code: https://github.com/akashcraft/Wordle-Python  
 AkashCraft: [akashcraft.ca](https://akashcraft.ca)  
 
-Thanks!
+## Donation
+If you like my work and would like to donate me, I would really appreciate it!<br><br>
+[<img src="https://github.com/user-attachments/assets/2ebd1ec4-0b2c-476d-98d1-267a08e9cd16">](https://www.paypal.com/donate/?business=YFEQJ9D5KR9PW&no_recurring=0&item_name=Thank+you+for+considering+to+donate+me%21+This+way+I+can+keep+developing+more+applications+for+you.&currency_code=CAD)
+
